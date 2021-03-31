@@ -14,7 +14,7 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def hirasawa(ctx):
+async def ronri(ctx):
     await ctx.send('https://www.youtube.com/watch?v=2MaYy2Spctg')
 
 
