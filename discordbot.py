@@ -14,8 +14,8 @@ async def on_command_error(ctx, error):
 
 
 @bot.command()
-async def ping(ctx):
-    await ctx.send('pong')
+async def hirasawa(ctx):
+    await ctx.send('https://www.youtube.com/watch?v=2MaYy2Spctg')
 
 
 bot.run(token)
